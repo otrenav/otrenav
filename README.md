@@ -19,4 +19,4 @@ your systems built, run and improved, one workflow at a time.
 - [The ML LABS Briefing](https://mllabs.com/podcast), a weekly podcast
 - [The briefing in your inbox](https://mllabs.com/newsletter), once a week
 
-Talk through your workflow in a free 15-minute call: https://mllabs.com/contact
+Book a 15-minute call on your workflow: https://mllabs.com/contact
