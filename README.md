@@ -1,9 +1,9 @@
 ### Omar Trejo · Founder and Engineer, [ML LABS](https://mllabs.com)
 
-Let workflows run themselves: get the software that connects your people and
-your systems built, run and improved, one workflow at a time.
+Let workflows run themselves: your people and your systems work as one, each
+verified change live within minutes.
 
-**Open source**, small working patterns for AI in your operations and finance:
+**Open source**, each one runnable today on synthetic data:
 
 - [workflow-readiness](https://github.com/mllabs-com/workflow-readiness):
   rank your candidate workflows for a first AI build
