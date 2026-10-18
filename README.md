@@ -1,6 +1,6 @@
 ### Omar Trejo · Founder and Engineer, [ML LABS](https://mllabs.com)
 
-So your workflows run themselves: your people and your systems work as one,
+Your workflows can run themselves: your people and your systems work as one,
 each verified change live within minutes.
 
 **Open source**, each one runnable today on synthetic data:
