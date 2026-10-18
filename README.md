@@ -1,7 +1,7 @@
 ### Omar Trejo · Founder and Engineer, [ML LABS](https://mllabs.com)
 
-Your workflows can run themselves: your people and your systems work as one,
-each verified change live within minutes.
+Custom AI designed, built and run for you: your workflows connect your
+people and your systems, each verified change live within minutes.
 
 **Open source**, each one runnable today on synthetic data:
 
